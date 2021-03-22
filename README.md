@@ -22,15 +22,16 @@
 
 ### 📂Repository Structure
 
-* **Jupyter Notebook** : jupyter notebook 파일 모음
-* **Markdown** : md 파일 모음 (Git에서 바로 참고할 수 있음)
+| Folder           | File Type                                           |
+| :----------------: | --------------------------------------------------- |
+| Jupyter Notebook | Jupyter Notebook 파일 모음 (.ipynb)                  |
+| Markdown         | Markdown 파일 모음 (.md / Git에서 바로 참고할 수 있음) |
 
 <br />
+
 
 ### 📅 Log
 
 | Date     | Title                                                        | Data Set |
 | -------- | ------------------------------------------------------------ | -------- |
-| 21.03.23 | [1. 초보자를 위한 빠른 시작](https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko) | MNIST    |
-|          |                                                              |          |
-
+| 21.03.23 | [1. 초보자를 위한 빠른 시작](https://github.com/tinnia/TenserFlow-Core-Tutorial/blob/master/Markdown/1.%20%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B9%A0%EB%A5%B8%20%EC%8B%9C%EC%9E%91.md) | MNIST    |
