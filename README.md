@@ -35,6 +35,6 @@
 | Date     | Type  | Title                                                        | Data Set      |
 | -------- | ----- | ------------------------------------------------------------ | ------------- |
 | 21.03.23 | Image | [1. 초보자를 위한 빠른 시작](https://github.com/tinnia/TenserFlow-Core-Tutorial/blob/master/Markdown/1.%20%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%B9%A0%EB%A5%B8%20%EC%8B%9C%EC%9E%91.md) | mnist         |
-| 21.03.23 | Image | 2. 기본 이미지 분류                                          | fashion_mnist |
-| 21.03.23 | Image | 3. 이미지 분류                                               | flower_photo  |
+| 21.03.23 | Image | [2. 기본 이미지 분류](https://github.com/tinnia/TenserFlow-Core-Tutorial/blob/master/Markdown/2.%20%EA%B8%B0%EB%B3%B8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98.md) | fashion_mnist |
+| 21.03.23 | Image | [3. 이미지 분류](https://github.com/tinnia/TenserFlow-Core-Tutorial/blob/master/Markdown/3.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98.md) | flower_photo  |
 
